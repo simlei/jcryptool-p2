@@ -1,4 +1,4 @@
-## Welcome to the JCrypTool RCP P2 Update Site
+## Welcome to the [JCrypTool](https://github.com/jcryptool/core) RCP P2 Update Site
 
 This is only a temporary address used for development and will be moved soon to the JCrypTool organization's repository.
 
